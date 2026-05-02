@@ -2,10 +2,10 @@ import os
 import sys
 from pathlib import Path
 
-from mistralai import Mistral
+from mistralai.client import Mistral
 
 PDF_PATH = Path("/Users/hn/vc/hue-95-23/theses.pdf")
-OUT_PATH = Path("/Users/hn/vc/hue-95-23/theses.md")
+OUT_DIR = Path("/Users/hn/vc/hue-95-23/out/mistral/markdown")
 MODEL = "mistral-ocr-latest"
 
 
@@ -34,12 +34,14 @@ def main() -> int:
         document={"type": "document_url", "document_url": signed.url},
     )
 
-    parts = []
+    OUT_DIR.mkdir(exist_ok=True)
+    width = max(3, len(str(len(response.pages))))
     for page in response.pages:
-        parts.append(f"<!-- page {page.index + 1} -->\n\n{page.markdown.strip()}\n")
+        n = page.index + 1
+        path = OUT_DIR / f"page-{n:0{width}d}.md"
+        path.write_text(f"<!-- page {n} -->\n\n{page.markdown.strip()}\n", encoding="utf-8")
 
-    OUT_PATH.write_text("\n\n---\n\n".join(parts), encoding="utf-8")
-    print(f"Wrote {len(response.pages)} pages to {OUT_PATH}")
+    print(f"Wrote {len(response.pages)} pages to {OUT_DIR}/")
     return 0
 
 
