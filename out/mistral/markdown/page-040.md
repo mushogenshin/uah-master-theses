@@ -1,57 +1,33 @@
 <!-- page 40 -->
 
-|  D20 | 59 | Quản lý quy hoạch sử dụng đất tại phường Hồ Nai thành phố Biên Hòa tỉnh Đồng Nai | Phạm Đức Hiếu
-Công ty CP KT&XD Kiến Đông | TS. Phan Sỹ Châu  |
+|  D20 | 59 | Quản lý quy hoạch sử dụng đất tại phường Hồ Nai thành phố Biên Hòa tỉnh Đồng Nai | Phạm Đức Hiếu<br>Công ty CP KT&XD Kiến Đông | TS. Phan Sỹ Châu  |
 | --- | --- | --- | --- | --- |
 |  D20 | 60 | Quản lý bảo tồn khu phố cổ của người Hoa ở Chợ Lớn dựa vào nguồn lực cộng đồng | Lê Quốc Hưng | TS. Võ Kim Cương  |
 |  D20 | 61 | Giải pháp quản lý không gian kiến trúc cảnh quan khu đô thị mới Thủ Thiêm, Thành phố Hồ Chí Minh | Nguyễn Duy Khoa | PGS.TS. Đàm Thu Trang  |
-|  D20 | 62 | Giải pháp dựa vào cộng đồng để nâng cao hiệu quả quản lý quy hoạch xây dựng huyện Cù Chi | Ngô Thị Thanh Loan
-Phòng QL đô thị Huyện Cù Chi | TS. Võ Kim Cương  |
-|  D20 | 63 | Quản lý quy hoạch vùng du lịch tỉnh ĐăkLăk | Dương Thị Hương Ly
-Ban QL các dự án Huyện Krong Nang | TS. Phạm Anh Dũng  |
-|  D20 | 64 | Quản lý quy hoạch xây dựng khu du lịch sinh thái Cù Lao Long Trị Thành phố Trà Vinh | Nguyễn Phú Nhuận
-Công ty TNHH TVXD Coban | PGS.TS Lê Anh Đức  |
-|  D20 | 65 | Giải pháp quản lý quy hoạch xây dựng xã nông thôn mới Tân Quý Tây, huyện Bình Chánh, Thành phố Hồ Chí Minh | Lương Mỹ Phượng
-Công ty TNHH TM ĐTXD Tân Huy | TS. Phan Sỹ Châu  |
-|  D20 | 66 | Quản lý xây dựng các khu dân cư tự phát thuộc huyện Bình Chánh | Đỗ Cao Thắng
-BQL đầu tư XDCT H.Bình Chánh | TS. Đỗ Phú Hưng  |
-|  D20 | 67 | Chiến lược quản lý bền vững nhà ở thương mại tại Thành phố Hồ Chí Minh | Nguyễn Trần Phương Thảo
-Công ty TNHH TV & TKXD HCH,Q1 | TS. Đỗ Phú Hưng  |
-|  D20 | 68 | Quản lý hệ thống hạ tầng kỹ thuật thích ứng biến đổi khí hậu tại thành phố Trà Vinh - Tỉnh Trà Vinh | Huỳnh Hữu Thọ
-Công ty cp Cơ khí CT cấp nước Bình Thạnh | PGS.TS. Lê Văn Khoa  |
-|  D20 | 69 | Nâng cao hiệu quả quản lý trật tự xây dựng các khu đô thị mới trên địa bàn thành phố Phan Rang - Tháp Chàm | Hồ Minh Trung
-Sở xây dựng Ninh Thuận | PGS.TS. Đỗ Hậu  |
-|  X20 | 70 | Nghiên cứu ảnh hưởng của tầng mềm đến khả năng chịu động đất của nhà nhiều tầng | Nguyễn Minh Chiến
-Công TNHH TV TKXD Gia Phú | TS. Nguyễn Hữu Anh Tuấn  |
-|  X20 | 71 | Đánh giá chuyển động trượt của vật dụng trong công trình thép theo các đặc trưng dao động của sản dưới tác động động đất | Nguyễn Phước Hiếu
-Công ty TNHH TKXD Nhà Việt Nam | TS. Đào Đình Nhân  |
-|  X20 | 72 | Đánh giá tính khả thi của công nghệ "Press- in" thi công cọc ván thép trong điều kiện đất rơi | Phạm Hữu Hoàng
-Ban QL DA h.Tân Uyên, tỉnh Bình Dương | TS. Chung Bác Ái
-TS. Nguyễn Thanh Nghị  |
-|  X20 | 73 | Phân tích đường cong tài liệu của cọc đơn bê tông cốt thép chịu tải trọng dọc trục trong điều kiện địa chất khu vực Thành phố Trà Vinh | Ký Minh Hưng
-Trường ĐH Trà Vinh | TS. Trương Quang Thành  |
-|  X20 | 74 | Xây dựng đường cong P-y cho cọc đơn chịu tải trọng ngang trong điều kiện địa chất Quận 1 - Thành phố Hồ Chí Minh | Trần Ngọc Hưng | TS. Chung Bác Ái
-TS. Nguyễn Thanh Nghị  |
-|  X20 | 75 | Ứng xử động của khung thép phẳng chịu động đất theo các cách bố trí và đặc tính của thiết bị lưu biến từ | Ngô Vũ Đình Khiêm
-TT NC&TV phát triển tỉnh Phú Yên | TS. Nguyễn Trọng Phước  |
-|  X20 | 76 | Phân tích ứng xử của dấm thép hộp nhồi bê tông chịu tải trọng động | Huỳnh Khánh Nguyên
-Viện QHPT đô thị Bình Dương | TS. Trần Văn Phúc  |
-|  X20 | 77 | Dùng phương pháp phần tử hữu hạn phân tích chuyển vị ngang của tường vây cọc khoan nhồi trong thi công hồ đào tầng hầm nhà cao tầng khu vực Thành phố Hồ Chí Minh | Phạm Duy Qui
-Công ty TNHH Phương Hùng | TS. Trương Quang Thành  |
-|  X20 | 78 | Tính toán dấm thép ống nhồi bê tông và mô phòng bằng phần tử hữu hạn | Trần Đắc Hoàng Qui
-Công ty CP Bình Bình Minh | TS. Trần Văn Phúc  |
+|  D20 | 62 | Giải pháp dựa vào cộng đồng để nâng cao hiệu quả quản lý quy hoạch xây dựng huyện Cù Chi | Ngô Thị Thanh Loan<br>Phòng QL đô thị Huyện Cù Chi | TS. Võ Kim Cương  |
+|  D20 | 63 | Quản lý quy hoạch vùng du lịch tỉnh ĐăkLăk | Dương Thị Hương Ly<br>Ban QL các dự án Huyện Krong Nang | TS. Phạm Anh Dũng  |
+|  D20 | 64 | Quản lý quy hoạch xây dựng khu du lịch sinh thái Cù Lao Long Trị Thành phố Trà Vinh | Nguyễn Phú Nhuận<br>Công ty TNHH TVXD Coban | PGS.TS Lê Anh Đức  |
+|  D20 | 65 | Giải pháp quản lý quy hoạch xây dựng xã nông thôn mới Tân Quý Tây, huyện Bình Chánh, Thành phố Hồ Chí Minh | Lương Mỹ Phượng<br>Công ty TNHH TM ĐTXD Tân Huy | TS. Phan Sỹ Châu  |
+|  D20 | 66 | Quản lý xây dựng các khu dân cư tự phát thuộc huyện Bình Chánh | Đỗ Cao Thắng<br>BQL đầu tư XDCT H.Bình Chánh | TS. Đỗ Phú Hưng  |
+|  D20 | 67 | Chiến lược quản lý bền vững nhà ở thương mại tại Thành phố Hồ Chí Minh | Nguyễn Trần Phương Thảo<br>Công ty TNHH TV & TKXD HCH,Q1 | TS. Đỗ Phú Hưng  |
+|  D20 | 68 | Quản lý hệ thống hạ tầng kỹ thuật thích ứng biến đổi khí hậu tại thành phố Trà Vinh - Tỉnh Trà Vinh | Huỳnh Hữu Thọ<br>Công ty cp Cơ khí CT cấp nước Bình Thạnh | PGS.TS. Lê Văn Khoa  |
+|  D20 | 69 | Nâng cao hiệu quả quản lý trật tự xây dựng các khu đô thị mới trên địa bàn thành phố Phan Rang - Tháp Chàm | Hồ Minh Trung<br>Sở xây dựng Ninh Thuận | PGS.TS. Đỗ Hậu  |
+|  X20 | 70 | Nghiên cứu ảnh hưởng của tầng mềm đến khả năng chịu động đất của nhà nhiều tầng | Nguyễn Minh Chiến<br>Công TNHH TV TKXD Gia Phú | TS. Nguyễn Hữu Anh Tuấn  |
+|  X20 | 71 | Đánh giá chuyển động trượt của vật dụng trong công trình thép theo các đặc trưng dao động của sản dưới tác động động đất | Nguyễn Phước Hiếu<br>Công ty TNHH TKXD Nhà Việt Nam | TS. Đào Đình Nhân  |
+|  X20 | 72 | Đánh giá tính khả thi của công nghệ "Press- in" thi công cọc ván thép trong điều kiện đất rơi | Phạm Hữu Hoàng<br>Ban QL DA h.Tân Uyên, tỉnh Bình Dương | TS. Chung Bác Ái<br>TS. Nguyễn Thanh Nghị  |
+|  X20 | 73 | Phân tích đường cong tài liệu của cọc đơn bê tông cốt thép chịu tải trọng dọc trục trong điều kiện địa chất khu vực Thành phố Trà Vinh | Ký Minh Hưng<br>Trường ĐH Trà Vinh | TS. Trương Quang Thành  |
+|  X20 | 74 | Xây dựng đường cong P-y cho cọc đơn chịu tải trọng ngang trong điều kiện địa chất Quận 1 - Thành phố Hồ Chí Minh | Trần Ngọc Hưng | TS. Chung Bác Ái<br>TS. Nguyễn Thanh Nghị  |
+|  X20 | 75 | Ứng xử động của khung thép phẳng chịu động đất theo các cách bố trí và đặc tính của thiết bị lưu biến từ | Ngô Vũ Đình Khiêm<br>TT NC&TV phát triển tỉnh Phú Yên | TS. Nguyễn Trọng Phước  |
+|  X20 | 76 | Phân tích ứng xử của dấm thép hộp nhồi bê tông chịu tải trọng động | Huỳnh Khánh Nguyên<br>Viện QHPT đô thị Bình Dương | TS. Trần Văn Phúc  |
+|  X20 | 77 | Dùng phương pháp phần tử hữu hạn phân tích chuyển vị ngang của tường vây cọc khoan nhồi trong thi công hồ đào tầng hầm nhà cao tầng khu vực Thành phố Hồ Chí Minh | Phạm Duy Qui<br>Công ty TNHH Phương Hùng | TS. Trương Quang Thành  |
+|  X20 | 78 | Tính toán dấm thép ống nhồi bê tông và mô phòng bằng phần tử hữu hạn | Trần Đắc Hoàng Qui<br>Công ty CP Bình Bình Minh | TS. Trần Văn Phúc  |
 |  X20 | 79 | Phân tích ứng xử của dấm TIMOSHENKO trên nền đàn nhớt phi tuyến bậc ba chịu tải trọng di động | Đoàn Kiều Văn Tâm | TS. Nguyễn Trọng Phước  |
-|  X20 | 80 | Phân tích phi tuyến hình học tấm, vỏ dùng phần tử CS-DSG3 | Nguyễn Đăng Thạch
-Công ty TNHH TVTK Thành phố | TS. Nguyễn Văn Hiếu
-TS. Nguyễn Thời Trung  |
+|  X20 | 80 | Phân tích phi tuyến hình học tấm, vỏ dùng phần tử CS-DSG3 | Nguyễn Đăng Thạch<br>Công ty TNHH TVTK Thành phố | TS. Nguyễn Văn Hiếu<br>TS. Nguyễn Thời Trung  |
 |  X20 | 81 | Khảo sát hiệu ứng "Vertical - Horizontal Coupling" trong công trình thép có chiều cao khác nhau sử dụng gói cách chấn ma sát | Mai Nguyễn Quế Thanh | TS. Đào Đình Nhân  |
 |  X20 | 82 | So sánh ứng xử của dấm bê tông cốt thép thường và bê tông ứng suất trước chịu tải trọng va chạm | Nguyễn Văn Trường | TS. Trần Văn Phúc  |
-|  X20 | 83 | Ảnh hưởng của sự thay đổi độ cứng cấu kiện BTCT đến chuyển vị và nội lực khung BTCT | Đặng Tuấn Việt
-Công ty TNHH TV TKXD VBA | TS. Nguyễn Hữu Anh Tuấn  |
+|  X20 | 83 | Ảnh hưởng của sự thay đổi độ cứng cấu kiện BTCT đến chuyển vị và nội lực khung BTCT | Đặng Tuấn Việt<br>Công ty TNHH TV TKXD VBA | TS. Nguyễn Hữu Anh Tuấn  |
 |  X20 | 84 | Phân tích phi tuyến hình học tấm FGM dùng phần tử từ giác trơn và lý thuyết biến dạng cắt bậc cao | Đoàn Thị Hải Yến | TS. Nguyễn Văn Hiếu  |
 |  K19 | 85 | Kiến trúc đền thờ hồi giáo ở TP Hồ Chí Minh | Võ Hoàng Long | TS. Lê Quang Ninh  |
 |  Q19 | 86 | Giải pháp quy hoạch không gian kiến trúc cảnh quan đô thị Hội An thích ứng với biến đổi khí hậu | Phan Công Nguyễn Phương Hùng | TS. Nguyễn Hồ Bắc  |
-|  D19 | 87 | Quản lý mạng lưới đường bộ Thành phố Vũng Tàu | Nguyễn Tiểu Dương
-Công ty CP ĐT&XL Dầu Khí Sài Gòn | PGS.TS. Vũ Thị Vinh  |
-|  D19 | 88 | Quản lý kiến trúc cảnh quan ven sông tại trung tâm Thành phố Vĩnh Long | Phan Duy Minh
-Văn phòng UBND tỉnh Vĩnh Long | TS. Đỗ Phú Hưng  |
+|  D19 | 87 | Quản lý mạng lưới đường bộ Thành phố Vũng Tàu | Nguyễn Tiểu Dương<br>Công ty CP ĐT&XL Dầu Khí Sài Gòn | PGS.TS. Vũ Thị Vinh  |
+|  D19 | 88 | Quản lý kiến trúc cảnh quan ven sông tại trung tâm Thành phố Vĩnh Long | Phan Duy Minh<br>Văn phòng UBND tỉnh Vĩnh Long | TS. Đỗ Phú Hưng  |

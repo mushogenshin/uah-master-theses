@@ -10,8 +10,7 @@
 |  XD28 | 81 | Xây dựng mô hình dự báo khả năng chịu cắt của vách bê tông cốt thép nhà cao tầng dùng tối ưu hóa MByBish và học máy | Cao Thành | Nhân | TS.KS. Trương Đình Nhật  |
 |  XD28 | 82 | Nguồn cứu sự làm việc đồng thời giữa cọc, đai và nền đất dưới đáy bê lên hệ móng bê cọc | Phạm Hồng | Thái | PGS.TS.KS. Tô Văn Lân  |
 |  XD28 | 83 | Xây dựng và so sánh các mô hình học máy khác nhau để dự báo lực bám dính giữa vật liệu bê tông cốt thép và vật liệu FRP gia cường | Lê Minh | Thanh | TS.KS. Trương Đình Nhật  |
-|  XD28 | 84 | Nguồn cứu ảnh hưởng của song gia cường đến khả năng chịu uốn của cấu kiện thép tạo hình nguội tiết diện chữ C | Thạch Toàn | Trung | TS.KS. Trần Văn Phúc
-TS.KS. Phạm Cao Hùng  |
+|  XD28 | 84 | Nguồn cứu ảnh hưởng của song gia cường đến khả năng chịu uốn của cấu kiện thép tạo hình nguội tiết diện chữ C | Thạch Toàn | Trung | TS.KS. Trần Văn Phúc<br>TS.KS. Phạm Cao Hùng  |
 |  XD28 | 85 | Phân tích môi trường quan giữa lực ép khí thì công hạ cọc với đường kính khác nhau và sức chịu tải nên cực hạn cọc ly tâm trong điều kiện địa chất công trình Benovas - Tỉnh Vĩnh Long | Nguyễn Bá | Vy | PGS.TS.KS. Trương Quang Thành  |
 |  KT27 | 86 | Không gian xanh trong kiến trúc chung cư ở các khu dân cư tại thành phố Thủ Đức | Ngô Phú | Cường | TS.KTS. Trần Minh Đức  |
 |  KT27 | 87 | Tổ chức không gian đọc trong các trường phổ thông trên địa bàn TP.HCM | Trấn Khánh | Hà | TS.KTS. Trương Thị Thanh Trúc  |
